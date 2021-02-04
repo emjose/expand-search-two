@@ -19,13 +19,15 @@ body {
   height: 0px;
   width: 0px;
   border-radius: 100%;
-  background: linear-gradient(-135deg, #322085, #fd510d);
+  background: linear-gradient(0deg, #322085, #fd510d);
   transition: all 0.4s linear;
 }
 .wrapper.active {
-  height: 4000px;
-  width: 4000px;
+  height: 200%;
+  width: 200%;
 }
+/* default of height and width was 4000px */
+
 .search-btn {
   position: absolute;
   top: 50%;
@@ -36,7 +38,7 @@ body {
   text-align: center;
   cursor: pointer;
   border-radius: 50%;
-  background: linear-gradient(-135deg, #322085, #fd510d);
+  background: linear-gradient(180deg, #322085, #fd510d);
 }
 .search-btn span {
   color: #fff;
