@@ -1,6 +1,6 @@
 <p id="project-title"><p>
 
-<a href=#table-of-contents>![Project Title](Assets/inter-004-search-2.png)</a> 
+<a href=#table-of-contents>![Expanding Search Bar 2](Assets/inter-004-search-2.png)</a> 
 
 #
 <p id="table-of-contents"><p>
