@@ -2,7 +2,10 @@
 
 <a href=#table-of-contents>![Expanding Search Bar 2](Assets/inter-004-search-2.png)</a> 
 
+<a href="https://emjose.github.io/expand-search-two">![Expanding Search Bar 2](Assets/preview-004-expanding-search-bar-2.png)</a> 
+
 #
+
 <p id="table-of-contents"><p>
 
 <a href=#table-of-contents>![Table of Contents](Assets/inter-toc.png)</a>  
