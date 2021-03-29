@@ -34,8 +34,11 @@
 
 <a href=#100days>![#100DaysOfCode](Assets/inter-100hash.png)</a>  
 
-<a href=#100days>![Under Construction](Assets/lorem-text.png)</a>
+### Day 4: February 6, 2021
+- For Day 4, I completed tutorials for expanding/hidden search bars.
 
+- See <a href="https://github.com/emjose/expand-search-one/#header">first search bar</a>.
+ 
 #
 
 <p id="installation"><p>
@@ -57,7 +60,7 @@ open index.html
 
 <a href="https://emjose.github.io/expand-search-two">![Live Site](Assets/inter-live-site.png)</a>  
 
-<a href="https://emjose.github.io/expand-search-two">![Under Construction](Assets/lorem-live.png)</a>
+<a href="https://emjose.github.io/expand-search-two">![Live Site](Assets/004-search-2.gif)</a>
 
 #
 
@@ -65,7 +68,13 @@ open index.html
 
 <a href=#resources>![Resources](Assets/inter-resources.png)</a>  
 
-<a href=#resources>![Under Construction](Assets/lorem-text.png)</a>
+- #### [Font Awesome Icons and Logos](https://fontawesome.com/)
+
+- #### [50 Projects in 50 Days Udemy Course](https://www.udemy.com/course/50-projects-50-days/)
+
+- #### [Hidden Search Bar Tutorial 1](https://youtu.be/pReHDgS3unQ) by [Web Design University](https://www.youtube.com/channel/UCdBMlU4fsTv7owBqJ5NntrQ)
+
+- #### [Hidden Search Bar Tutorial 2](https://youtu.be/uQaVyb9s_qg) by [CodingNepal](https://www.youtube.com/channel/UCk7xIEmd3MeyhIu2StLX5yA)
 
 #
 
