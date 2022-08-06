@@ -48,13 +48,13 @@
 
 #### Git clone and cd into the repo folder:
 
-```
+```console
 git clone git@github.com:emjose/expand-search-two.git && cd expand-search-two
 ```
 
 #### Run the command:
 
-```
+```console
 open index.html
 ```
 
